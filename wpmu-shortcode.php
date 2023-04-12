@@ -10,6 +10,7 @@ Author URI: https://github.com/ShoboySnr
 License: GPL2
 */
 
+// Add Shortcode
 function subform() {
     
     $user_display_name = __('Guest', 'wpmu-shortcode');
